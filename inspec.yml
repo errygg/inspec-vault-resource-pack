@@ -1,0 +1,6 @@
+name: inspec-vault-resource-pack
+title: HashiCorp Vault Resource Pack
+maintainer: Erik R. Rygg
+summary: This resource pack provides compliance resources for HashiCorp Vault.
+version: 0.1.0
+inspec_version: '>= 4.7.3'
